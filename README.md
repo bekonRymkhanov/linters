@@ -13,14 +13,14 @@ Second, ensure you have `pre-commit` and `flake8` installed in your virtual envi
 
 ```bash
 pip install pre-commit flake8
-
+```
 ### 3. Install the Pre-Commit Hook
 
 Run the following command in your project directory to activate the hooks specified in the .pre-commit-config.yaml file:
 
 ```bash
 pre-commit install
-
+```
 ### 4. Test the Hooks
 
 Now, when you add and commit files, pre-commit will automatically check your code. For example:
@@ -28,3 +28,4 @@ Now, when you add and commit files, pre-commit will automatically check your cod
 ```bash
 git add example.py
 git commit -m "test commit"
+```
