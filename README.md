@@ -5,14 +5,16 @@ This project uses **Flake8** to pre-commit hook to automatically run Flake8 befo
 ## Setup Instructions
 
 ### 1. Open and activate your venv
+```
 python3 -m venv nameofvenv
 source path/to/venv/activator
-
+```
 ### 2. Install Required Tools
-Second, ensure you have `pre-commit` and `flake8` installed in your virtual environment:
+Second, ensure you have `pre-commit` and `flake8` installed in your virtual environment and required hooks:
 
 ```bash
 pip install pre-commit flake8
+pip install black etc.
 ```
 ### 3. Install the Pre-Commit Hook
 
