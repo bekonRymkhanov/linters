@@ -28,9 +28,9 @@ Now, when you add and commit files, pre-commit will automatically check your cod
 
 ![img](screanshots/Screenshot%20from%202024-11-06%2023-41-42.png)
 we can see here that hooks are catching this
-[img](screanshots/Screenshot%20from%202024-11-06%2023-42-34.png)
+![img](screanshots/Screenshot%20from%202024-11-06%2023-42-34.png)
 delete unused imports and commit but make bad commit message
-![img](screanshots/Screenshot%20from%202024-11-06%2023-39-31.png))
-![img](screanshots/Screenshot%20from%202024-11-06%2023-42-23.png))
+![img](screanshots/Screenshot%20from%202024-11-06%2023-39-31.png)
+![img](screanshots/Screenshot%20from%202024-11-06%2023-42-23.png)
 make perfect commit message
-![img](screanshots/Screenshot%20from%202024-11-07%2000-22-08.png))
+![img](screanshots/Screenshot%20from%202024-11-07%2000-22-08.png)
