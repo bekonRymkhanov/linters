@@ -26,7 +26,7 @@ pre-commit install
 
 Now, when you add and commit files, pre-commit will automatically check your code. For example make a python code with errors like unused imports and spaces and try to commit:
 
-![img](screanshots/Screenshot from 2024-11-06 23-42-34.png)
+![img](screanshots/Screenshot%20from%202024-11-06%2023-42-34.png)
 delete unused imports and commit but make bad commit message
 ![img](screanshots/Screenshot from 2024-11-06 23-39-31.png)
 ![img](screanshots/Screenshot from 2024-11-06 23-39-38.png)
