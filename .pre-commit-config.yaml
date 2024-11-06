@@ -39,5 +39,5 @@ repos:
     -   id: reorder-python-imports
         args: [--application-directories=.:src --py36-plus]
           
-exclude: 'bekavenv/.*|.pre-commit-config.yaml|\.git_backup|READ.me'
+exclude: 'beka/.*|.pre-commit-config.yaml|\.git_backup|READ.me'
 
