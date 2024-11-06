@@ -25,11 +25,10 @@ pre-commit install
 ### 4. Test the Hooks
 
 Now, when you add and commit files, pre-commit will automatically check your code. For example make a python code with errors like unused imports and spaces and try to commit:
-![img](screanshots/2024-11-06 23-41-42.png)
 
-![img](screanshots/2024-11-06 23-42-34.png)
+![img](screanshots/Screenshot from 2024-11-06 23-42-34.png)
 delete unused imports and commit but make bad commit message
-![img](screanshots/2024-11-06 23-39-31.png)
-![img](screanshots/2024-11-06 23-39-38.png)
+![img](screanshots/Screenshot from 2024-11-06 23-39-31.png)
+![img](screanshots/Screenshot from 2024-11-06 23-39-38.png)
 make perfect commit message
-![img](screanshots/2024-11-07 00-22-08.png)
+![img](screanshots/Screenshot from 2024-11-07 00-22-08.png)
